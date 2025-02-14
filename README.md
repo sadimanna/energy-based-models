@@ -6,3 +6,5 @@
 - Hopfield Network for Continuous Data
 - Boltzmann Machine for Real Data
 - Gaussian-Bernoulli Restricted Boltzmann Machine
+- Back-Propagation Algorithm
+- Forward-Forward Algorithm
